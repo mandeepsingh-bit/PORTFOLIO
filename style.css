@@ -143,6 +143,7 @@ section { padding: 6rem 6%; }
 .project-thumb.p1 { background: linear-gradient(135deg, #e8f4fd, #c8e6fa); }
 .project-thumb.p2 { background: linear-gradient(135deg, #fdf3e8, #fadec8); }
 .project-thumb.p3 { background: linear-gradient(135deg, #e8fdf0, #c8f0d8); }
+.project-thumb.p4 { background: linear-gradient(135deg, #efe8fd, #d8c8f5); }
 .project-body { padding: 1.5rem; flex: 1; display: flex; flex-direction: column; }
 .project-type { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem; }
 .project-title { font-family: 'DM Serif Display', serif; font-size: 1.35rem; margin-bottom: 0.6rem; }
